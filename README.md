@@ -29,6 +29,8 @@ While I still consider myself a beginner developer, I'm willing to take on proje
 
 Like my work? If you want to help me out consider donating on [CoinDrop](https://coindrop.to/sterlingheaton).
 
+<a href="https://coindrop.to/sterlingheaton" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
+
 
 <!---
 SterlingHeaton/SterlingHeaton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
